@@ -1,6 +1,39 @@
-# ds-project-template
+# Task: 
+* Exploratory data analysis of King County Housing data. 
 
-Template for creating ds simple projects
+* Find potential recommendations to client according to her needs.. 
+
+
+# Client:
+Jennifer Montgomery:
+
+
+# Requirements: 
+
+* High budget
+* wants to show off
+* timing within a month
+* waterfront renovated
+* high grades
+* resell within 1 year(buyer)
+
+# Workflow:
+
+* Understanding data
+
+* Data cleaning
+
+* Feature engineering
+
+* Data visualization
+
+* Data preparation for client
+
+* Recommendation to client
+
+* Insights regarding over all data
+
+
 
 ## Requirements
 
